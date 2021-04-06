@@ -1,5 +1,9 @@
 # QuizInheritance
 
+Nama  : Muhamad Yusuf Maulana
+NIM   : 1903851
+Kelas : Pilkom B - 2019
+
 pada source code kali ini saya mengubah beberapa class yang sebelumnya tidak menggunakan inheritance menjadi menggunakan inheritance
 yang pertama pada class player, class player merupakan turunan dari class Item. dimana variabel dan fungsi yang digunakan di class player
 sama dengan class item, jadi kita tidak perlu lagi menambah variabel dan fungsi yang sudah ada agar tidak membuat penuh code pada class player
